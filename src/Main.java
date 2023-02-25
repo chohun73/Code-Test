@@ -33,14 +33,6 @@ public class Main {
         //OC();
         //lotto();
         GymS();
-            String x = "123";
-            String y = "abc";
-
-            int xx = Integer.parseInt(x);
-            int yy = Integer.parseInt(y);
-
-            System.out.println(xx);
-            System.out.println(yy);
 
 
     }
